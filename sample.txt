@@ -1,4 +1,5 @@
-This is use for git usage.
-this is my first commit.
+This is used for git usage.
+This is my first commit.
 
-this is my first commit in dev1.... 
+This is my first commit in dev1
+This is my second commit in dev1
