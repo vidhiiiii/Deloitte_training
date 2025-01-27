@@ -5,5 +5,9 @@ this is my first commit
 =======
 this is my first commit.
 
+<<<<<<< HEAD
 this is my first commit in dev1. 
+>>>>>>> dev1
+=======
+this is my first commit in dev1.... 
 >>>>>>> dev1
