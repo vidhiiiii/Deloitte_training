@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 This is used for git usage
 This is my first commit
 
 This is my first commit in dev 1
+=======
+This is used for git usage.
+This is my first commit.
+
+This is my first commit in dev1
+This is my second commit in dev1
+>>>>>>> dev1
